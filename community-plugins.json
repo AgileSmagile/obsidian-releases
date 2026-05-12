@@ -23882,5 +23882,12 @@
     "author": "Olivia",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Simple, manually-controlled WebDAV sync plugin",
     "repo": "lunarwatcher/obsidian-webdav-sync"
+  },
+  {
+    "id": "graph-label-above",
+    "name": "Graph Label Above",
+    "author": "James Farley",
+    "description": "Accessibility improvement for node labels moving them above nodes, complete with a distance slider and optional color overrides.",
+    "repo": "AgileSmagile/obsidian-graph-label-above"
   }
 ]
